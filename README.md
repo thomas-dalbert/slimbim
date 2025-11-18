@@ -33,7 +33,7 @@ Buildings are not.
 ### **2. Buildings Need a Cloud-Native Context Layer**
 cloudBIM provides:
 - spatial hierarchy (rooms → zones → domains)  
-- asset-level identities (ICIDs / IFC GeoIDs)  
+- asset-level identities (IFC GUIDs)  
 - semantic relationships (equipment ↔ systems ↔ controls)  
 - live data bindings  
 - cross-system logic  
@@ -86,7 +86,7 @@ These patterns provide clarity while leaving space for alignment with C4SBF, IBB
 ### **Operational BIM Patterns**
 - cloudBIM schema  
 - zone/domain hierarchy (223P)  
-- persistent identities (ICIDs, IFC GeoIDs)  
+- persistent identities (IFCGUIDs)  
 - asset → endpoint mapping  
 
 ---
